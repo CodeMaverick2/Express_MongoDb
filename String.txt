@@ -1,1 +1,1 @@
-mongodb+srv://tejasghatule12345:lbQygZ4zJ2iRf1iA@cluster0.11bongg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://tejasghatule12345:L0zKCaep3DF9wtNQ@cluster0.11bongg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
